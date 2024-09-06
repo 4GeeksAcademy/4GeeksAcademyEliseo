@@ -1,0 +1,87 @@
+template: "online-cv"
+skin: "ceramic"
+
+basic_info:
+
+    first_name: Eliseo 
+    last_name: Barreiro
+    motto: Full-stack Developer
+    avatar: https://avatars1.githubusercontent.com/u/70028912?s=400&u=906a7cf69dffa2cbe1dc66e8f4237bbc2e6de9d1&v=4
+    summary: |
+      I like tech and codding a lot,and i decided to start learning @4GeeksAcademy meanwhile im looking for a job to keep growing.
+      I can adapt myself to any situation.
+      I really wanna grow up in the programming world.
+      I`m very dedicated and hard working!
+
+    email: eliseobarreiro@gmail.com
+    phone: 098732649
+    website: 
+    linkedin: https://www.linkedin.com/in/eliseo-barreiro/ 
+    github: https://github.com/Elibar55
+    twitter: 
+    stack-overflow: 
+
+    languages:
+
+      - idiom: Spanish
+        level: Native
+        
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Coding
+
+      - item: Gaming
+
+      - item: Cinema
+
+      - item : Music
+
+education:
+    - degree: 
+      university: 
+      time: 
+      details: 
+      
+experiences:
+    - role: Student
+      time: Currently
+      company: 4Geeks Academy
+      details: Practicing JavaScript,HTML,CSS!
+      
+projects:
+    intro: >
+      I have some projects on my github @4GeeksAcademy course!
+    
+    assignments:
+      - title: The Postcard
+        link: https://github.com/aurelianvoinea6/Postcard
+        tagline: "A responsive website template designed to input information on a postcard.   --"
+      - title: PayCard
+        link: https://github.com/aurelianvoinea6/PayCard
+        tagline: "A model of a PayCard.  --"
+        
+      - title: The Instagram Photo Feed
+        link: https://github.com/aurelianvoinea6/The-Instagram-Photo-Feed
+        tagline: "My first Instagram Photo Feed   --"
+
+      - title: Excuse Generator
+        link: https://github.com/aurelianvoinea6/Excuse-Generator
+        tagline: "Random excuse generator.   --"
+             
+      - title: InstagramPost
+        link: https://github.com/aurelianvoinea6/InstagramPost
+        tagline: "This is a simple Instagram post.   --"
+
+      
+skills:
+    toolset:
+      - name: Python
+        level: 40%
+
+      - name: Javascript
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 90%
